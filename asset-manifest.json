@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.80422265.css",
-    "main.js": "/static/js/main.0bb1e08f.js",
+    "main.js": "/static/js/main.9ff173ea.js",
     "static/js/787.73711e4f.chunk.js": "/static/js/787.73711e4f.chunk.js",
     "static/media/parlante.jpg": "/static/media/parlante.4108932f298edee916c7.jpg",
     "static/media/portada_mariscos.jpg": "/static/media/portada_mariscos.50aeae4558aab1db7db2.jpg",
@@ -9,6 +9,7 @@
     "static/media/tamales (2).jpg": "/static/media/tamales (2).8468fd8dcb1fa027455b.jpg",
     "static/media/portadaceviches.jpg": "/static/media/portadaceviches.0f04ea28c1be680bb749.jpg",
     "static/media/portada_bebidas.jpg": "/static/media/portada_bebidas.93fae1a87d3e02700d79.jpg",
+    "static/media/jalea.jpg": "/static/media/jalea.6b89404b41c12b37dd93.jpg",
     "static/media/portada_chicharron.jpg": "/static/media/portada_chicharron.bd237d04da16b53d9674.jpg",
     "static/media/piscina.jpg": "/static/media/piscina.c87e02c28d12e43690e0.jpg",
     "static/media/chicha.jpg": "/static/media/chicha.f9674d37e849e28cdda2.jpg",
@@ -17,11 +18,11 @@
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.80422265.css.map": "/static/css/main.80422265.css.map",
-    "main.0bb1e08f.js.map": "/static/js/main.0bb1e08f.js.map",
+    "main.9ff173ea.js.map": "/static/js/main.9ff173ea.js.map",
     "787.73711e4f.chunk.js.map": "/static/js/787.73711e4f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80422265.css",
-    "static/js/main.0bb1e08f.js"
+    "static/js/main.9ff173ea.js"
   ]
 }
