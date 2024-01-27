@@ -1,16 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.80422265.css",
-    "main.js": "/static/js/main.9ff173ea.js",
+    "main.js": "/static/js/main.96d7b4af.js",
     "static/js/787.73711e4f.chunk.js": "/static/js/787.73711e4f.chunk.js",
     "static/media/parlante.jpg": "/static/media/parlante.4108932f298edee916c7.jpg",
-    "static/media/portada_mariscos.jpg": "/static/media/portada_mariscos.50aeae4558aab1db7db2.jpg",
+    "static/media/chicharron_mariscos.jpg": "/static/media/chicharron_mariscos.d21540de77eead2a3d01.jpg",
+    "static/media/chaufamariscos (2).jpg": "/static/media/chaufamariscos (2).90dd2289bc2f4fae04ad.jpg",
+    "static/media/doble_ceviche_arroz.jpg": "/static/media/doble_ceviche_arroz.ea61beb299e3c205e192.jpg",
     "static/media/pinacolada.jpg": "/static/media/pinacolada.0431c77a166ea44e5dbf.jpg",
     "static/media/tamales (2).jpg": "/static/media/tamales (2).8468fd8dcb1fa027455b.jpg",
     "static/media/portadaceviches.jpg": "/static/media/portadaceviches.0f04ea28c1be680bb749.jpg",
     "static/media/portada_bebidas.jpg": "/static/media/portada_bebidas.93fae1a87d3e02700d79.jpg",
-    "static/media/jalea.jpg": "/static/media/jalea.6b89404b41c12b37dd93.jpg",
-    "static/media/portada_chicharron.jpg": "/static/media/portada_chicharron.bd237d04da16b53d9674.jpg",
+    "static/media/arrozconmariscos.jpg": "/static/media/arrozconmariscos.f3ff2e55c1aa78a40942.jpg",
+    "static/media/chicharron_pescado.jpg": "/static/media/chicharron_pescado.adf32d2109f1c0215f88.jpg",
+    "static/media/jalea_personal.jpg": "/static/media/jalea_personal.e0ca9c530da106afd95b.jpg",
+    "static/media/jalea_familiar.jpg": "/static/media/jalea_familiar.55058fd4c44110a1283d.jpg",
+    "static/media/doble_ceviche_chicharron.jpg": "/static/media/doble_ceviche_chicharron.649d5bd4aa5f8c416ca3.jpg",
     "static/media/piscina.jpg": "/static/media/piscina.c87e02c28d12e43690e0.jpg",
     "static/media/chicha.jpg": "/static/media/chicha.f9674d37e849e28cdda2.jpg",
     "static/media/carpa.jpg": "/static/media/carpa.77ff7c2d990a6e6d79f9.jpg",
@@ -18,11 +23,11 @@
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.80422265.css.map": "/static/css/main.80422265.css.map",
-    "main.9ff173ea.js.map": "/static/js/main.9ff173ea.js.map",
+    "main.96d7b4af.js.map": "/static/js/main.96d7b4af.js.map",
     "787.73711e4f.chunk.js.map": "/static/js/787.73711e4f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80422265.css",
-    "static/js/main.9ff173ea.js"
+    "static/js/main.96d7b4af.js"
   ]
 }
